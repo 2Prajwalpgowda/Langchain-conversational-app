@@ -1,4 +1,12 @@
-# Langchain-conversational-app
+---
+title: ChatModelapp
+emoji: 🌍
+colorFrom: red
+colorTo: green
+sdk: streamlit
+sdk_version: 1.31.1
+app_file: app.py
+pinned: false
+---
 
-
-Langchain simple converational app  using openai created on Huggingspace spaces
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
